@@ -1,0 +1,25 @@
+{
+  "name": "webassembly-types",
+  "version": "1.0.0",
+  "description": "Better types for interacting with WebAssembly",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtuc/webassembly-types.git"
+  },
+  "keywords": [
+    "webassembly",
+    "types",
+    "js",
+    "i64",
+    "bigint"
+  ],
+  "author": "Sven Sauleau",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
